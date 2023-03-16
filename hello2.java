@@ -3,5 +3,7 @@ public class hello2 {
         System.out.println("hhell");
 
         int x=2;
+
+        int y=3;
     }
 }
